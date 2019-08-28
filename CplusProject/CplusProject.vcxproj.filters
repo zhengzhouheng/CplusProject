@@ -19,6 +19,12 @@
     <Filter Include="源文件\common">
       <UniqueIdentifier>{0e0a69c6-9c46-4a4c-aeb8-5fbbff256e7a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\decode">
+      <UniqueIdentifier>{9268909b-8898-45f4-a19e-77dab1bd0037}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\decode">
+      <UniqueIdentifier>{d583522e-595f-46b6-89da-8b8447b8a776}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myString.h">
